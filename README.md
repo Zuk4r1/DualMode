@@ -45,6 +45,18 @@ Activa el plan equilibrado con optimizaciones de batería.
 
 ---
 
+# Funciones
+- Mensajes con íconos (🚀, 🔋, ✅) para claridad visual.
+
+- Títulos en ventana (title) y colores (color) para distinguir modos.
+
+- Tiempo de pantalla/suspensión diferenciados en batería vs corriente (más realista).
+
+- CPU limitado solo en batería → no afecta cuando usas cargador.
+
+- Validación de planes estándar de Windows → GUIDs de High Performance y Balanced son fijos y válidos en cualquier Windows 10/11.
+
+---
 ## 🖥️ Requisitos
 
 - Windows 10/11  
