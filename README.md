@@ -70,3 +70,5 @@ Activa el plan equilibrado con optimizaciones de batería.
 
 ---
 
+## ✍️ Autor
+Creado con ❤️ por [@Zuk4r1](https://github.com/Zuk4r1)
